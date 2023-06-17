@@ -1,0 +1,29 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-188902f9213-7a072092b9da9622": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "bdclientes.db",
+			"save-password": true,
+			"configuration": {
+				"database": "D:\\Documentos\\Wellinson\\Projetos\\YouTube\\workspace\\Clientes\\resources\\bdclientes.db",
+				"url": "jdbc:sqlite:D:\\Documentos\\Wellinson\\Projetos\\YouTube\\workspace\\Clientes\\resources\\bdclientes.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Desenvolvimento",
+			"color": "255,255,255",
+			"description": "Banco de dados de desenvolvimento",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
