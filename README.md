@@ -16,7 +16,7 @@ Projeto desenvolvido em Java para desktop, abordando diversos conceitos.
 
 <br/>
 
-Acesse a playlist de vídedos
+Acesse a playlist de vídeos
 <br/>
 <a href="https://www.youtube.com/playlist?list=PL36BYtHEDuaKle4kxPtbb6b6Q7CwRWZzi"><img width="250px" src="https://img.youtube.com/vi/5sxVbaX0Cbw/0.jpg" alt="Miniatura da playlist"></a>
 
