@@ -16,7 +16,7 @@ Projeto desenvolvido em Java para desktop, abordando diversos conceitos.
 
 ## Problema com relatório
 
-Nesse projeto foi utilizado o plugin do JasperSoft para desenvolver o relatório, porém não está mais disponível no marketplace. Para contornar isso pode ser utilizado o aplicativo Jasrpersoft para desktop e algumas libs. Adicione as libs abaixo ao classpath do projeto e utilize o Jaspersoft Studio community na sua versão 6.21.2 para desenhar o relatório.
+Nesse projeto foi utilizado o plugin do JasperSoft para desenvolver o relatório, porém não está mais disponível no marketplace. Para contornar isso pode ser utilizado o aplicativo Jasrpersoft para desktop e algumas libs. Adicione as libs abaixo ao classpath do projeto e utilize o Jaspersoft Studio community na sua versão 6.21.2 para desenhar o relatório, após desenhar o relatório copie o arquivo de extensão jrxml para pasta relatório faça o mesmo com jrdax copiando para o pacote dao.
 
 [jasperreports](https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports/6.16.0)
 [commons-beanutils](https://mvnrepository.com/artifact/commons-beanutils/commons-beanutils/1.9.4)
