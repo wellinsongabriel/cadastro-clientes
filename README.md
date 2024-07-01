@@ -14,6 +14,19 @@ Projeto desenvolvido em Java para desktop, abordando diversos conceitos.
   <li>GitHub</li>
 </ul>
 
+## Problema com relatório
+
+Nesse projeto foi utilizado o plugin do JasperSoft para desenvolver o relatório, porém não está mais disponível no marketplace. Para contornar isso pode ser utilizado o aplicativo Jasrpersoft para desktop e algumas libs. Adicione as libs abaixo ao classpath do projeto e utilize o Jaspersoft Studio community na sua versão 6.21.2 para desenhar o relatório.
+
+[jasperreports](https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports/6.16.0)
+[commons-beanutils](https://mvnrepository.com/artifact/commons-beanutils/commons-beanutils/1.9.4)
+[commons-collections4](https://mvnrepository.com/artifact/org.apache.commons/commons-collections4/4.4)
+[commons-digester](https://mvnrepository.com/artifact/commons-digester/commons-digester/2.1)
+[commons-logging](https://mvnrepository.com/artifact/commons-logging/commons-logging/1.1.1)
+
+Jaspersoft Studio community versão 6.21.2, link oficial [aqui](https://community.jaspersoft.com/download-jaspersoft/community-edition/jaspersoft-studio_6.21.2)
+
+
 <br/>
 
 Acesse a playlist de vídeos
