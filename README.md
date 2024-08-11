@@ -29,9 +29,28 @@ Jaspersoft Studio community versão 6.21.2, link oficial [aqui](https://communit
 
 <br/>
 
-Acesse a playlist de vídeos
-<br/>
-<a href="https://www.youtube.com/playlist?list=PL36BYtHEDuaKle4kxPtbb6b6Q7CwRWZzi"><img width="250px" src="https://img.youtube.com/vi/5sxVbaX0Cbw/0.jpg" alt="Miniatura da playlist"></a>
+Assista aos vídeos
+
+### 01 - Tela de Login | Eclipse IDE | Java Swing
+<a href="https://youtu.be/5sxVbaX0Cbw"><img width="250px" src="https://img.youtube.com/vi/5sxVbaX0Cbw/0.jpg" alt="Miniatura vídeo 01 - Tela de Login | Eclipse IDE | Java Swing"></a>
+
+### 02 - Tela Principal e Criptografia | Eclipse IDE | Java Swing
+<a href="https://youtu.be/kXHSWc3QXJs"><img width="250px" src="https://img.youtube.com/vi/kXHSWc3QXJs/0.jpg" alt="Miniatura vídeo 02 - Tela Principal e Criptografia | Eclipse IDE | Java Swing"></a>
+
+### 03 - Classes de Conexão e DAO | Eclipse IDE | Java Swing | SQLite | DBeaver
+<a href="https://youtu.be/PAktx-Vh7mM"><img width="250px" src="https://img.youtube.com/vi/PAktx-Vh7mM/0.jpg" alt="Miniatura vídeo 03 - Classes de Conexão e DAO | Eclipse IDE | Java Swing | SQLite | DBeaver"></a>
+
+### 04 - CRUD e Filtro de Busca | Eclipse IDE | Java Swing | SQLite | DBeaver
+<a href="https://youtu.be/yLCYKc90_9k"><img width="250px" src="https://img.youtube.com/vi/yLCYKc90_9k/0.jpg" alt="Miniatura vídeo 04 - CRUD e Filtro de Busca | Eclipse IDE | Java Swing | SQLite | DBeaver"></a>
+
+### 05 - Relatórios em Java | Eclipse IDE | JasperReports
+<a href="https://youtu.be/4OW4WijQpXA"><img width="250px" src="https://img.youtube.com/vi/4OW4WijQpXA/0.jpg" alt="Miniatura vídeo 05 - Relatórios em Java | Eclipse IDE | JasperReports"></a>
+
+### 06 - Gerar e Restaurar Backup em Java | Eclipse IDE | Java Swing
+<a href="https://youtu.be/T-dnyvUoIjA"><img width="250px" src="https://img.youtube.com/vi/T-dnyvUoIjA/0.jpg" alt="Miniatura vídeo 06 - Gerar e Restaurar Backup em Java | Eclipse IDE | Java Swing"></a>
+
+### 07 - Utilizando GitHub no Eclipse | Eclipse IDE | GitHub
+<a href="https://youtu.be/deNebqNyK_U"><img width="250px" src="https://img.youtube.com/vi/deNebqNyK_U/0.jpg" alt="Miniatura vídeo 07 - Utilizando GitHub no Eclipse | Eclipse IDE | GitHub"></a>
 
 <br/>
 Canal no Youtube 
